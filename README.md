@@ -71,7 +71,7 @@
 
 ## 🔥 Contribution Graph
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TathagataSen06&theme=tokyonight&hide_border=true&v=1" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TathagataSen06&theme=tokyonight&hide_border=true&v=3" alt="GitHub Streak" />
 </div>
 
 ---
