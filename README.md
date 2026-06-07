@@ -1,30 +1,21 @@
 # Hi there 👋
----
 
 ## 🚀 About Me
-
-* 🎓 Pre-final Year B.Tech CSE Student at BIT Mesra (CGPA: **8.12/10**)
-* 🏆 Winner of **AI FOR BHARAT Hackathon** (₹1,00,000 Prize Pool)
-* ♟️ **LeetCode Knight** with a peak rating of **1876**
-* 💻 Solved **500+ DSA & Competitive Programming Problems**
-* 🤖 Passionate about AI Engineering, Agentic Systems, RAG, NLP, and Intelligent Automation
-* ⚡ Interested in Distributed Systems, System Design, and Scalable Software Engineering
-* 🌐 Building Full-Stack Applications and Real-Time Platforms
-* 🔐 Exploring Cybersecurity and Secure Software Development
-* 🚀 Seeking Software Engineering, Full Stack, Python Development, and AI/ML Opportunities
-
----
+- 🎓 Pre-final Year B.Tech CSE Student at BIT Mesra
+- 🏆 Winner of *AI FOR BHARAT Hackathon* (₹1,00,000 Prize Pool)
+- ♟️ *LeetCode Knight* with a peak rating of *1876*
+- 💻 Solved *500+ DSA & Competitive Programming Problems*
+- 🤖 Passionate about AI Engineering, Agentic Systems, RAG, NLP, and Intelligent Automation
+- ⚡ Interested in Distributed Systems, System Design, and Scalable Software Engineering
+- 🌐 Building Full-Stack Applications and Real-Time Platforms
+- 🔐 Exploring Cybersecurity and Secure Software Development
+- 🚀 Seeking Software Engineering, Full Stack, Python Development, and AI/ML Opportunities
 
 ## 🏆 Competitive Programming
-
-* Peak Rating: **1876**
-* LeetCode Knight
-* Solved **500+ Problems**
-* Strong focus on DSA, Graphs, Dynamic Programming, Greedy Algorithms, and Problem Solving
-
----
-
-## 💻 Tech Stack
+- Peak Rating: *1876*
+- LeetCode Knight
+- Solved *500+ Problems*
+- Strong focus on DSA, Graphs, Dynamic Programming, Greedy Algorithms, and Problem Solving
 
 ## 💻 Tech Stack & Skills
 
@@ -59,25 +50,20 @@
 * **Core CS:** Data Structures & Algorithms, OOP, DBMS, Operating Systems, Computer Networks
 * **AI/ML:** Machine Learning, NLP, RAG Systems, Vector Search, K-Means Clustering, Neural Networks
 
----
-
 ## 📊 GitHub Statistics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TathagataSen06&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TathagataSen06&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api?username=TathagataSen06&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=TathagataSen06&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
+
 ---
 
 ## 🔥 Contribution Graph
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TathagataSen06&theme=tokyonight" alt="GitHub Streak" />
 </div>
+
 ---
 
 ## 🌟 Areas of Interest
-
 Artificial Intelligence • Agentic AI • Distributed Systems • Software Engineering • Full-Stack Development • Cloud Computing • Cybersecurity • System Design • Open Source
-
----
-
-## 📫 Connect With Me
