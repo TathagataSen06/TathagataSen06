@@ -1,15 +1,25 @@
-# Hi there 👋, this is Tathagata Sen
+<h1 align="center">Hey 👋, I'm Tathagata Sen</h1>
 
-## 🚀 About Me
-- 🎓 Pre-final Year B.Tech CSE Student at BIT Mesra
-- 🏆 Winner of *AI FOR BHARAT Hackathon* (₹1,00,000 Prize Pool)
-- ♟️ *LeetCode Knight* with a peak rating of *1876*
-- 💻 Solved *500+ DSA & Competitive Programming Problems*
-- 🤖 Passionate about AI Engineering, Agentic Systems, RAG, NLP, and Intelligent Automation
-- ⚡ Interested in Distributed Systems, System Design, and Scalable Software Engineering
-- 🌐 Building Full-Stack Applications and Real-Time Platforms
-- 🔐 Exploring Cybersecurity and Secure Software Development
-- 🚀 Seeking Software Engineering, Full Stack, Python Development, and AI/ML Opportunities
+<p align="center">
+  Competitive programmer • Full-stack developer • AI & ML builder
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tathagatasen05/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://leetcode.com/u/dedsora/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+  <img src="https://komarev.com/ghpvc/?username=TathagataSen06&label=Profile%20Views&color=00e5ff&style=flat-square" alt="Profile Views">
+</p>
+
+---
+
+## About Me
+
+> Competitive Programmer turned Full Stack & ML Engineer — I love solving hard algorithmic problems as much as I love building intelligent, real-world systems.
+
+* 🎓 **B.Tech CSE @ BIT Mesra** — Expected 2027
+* 🔭 **Currently** — Working on agentic AI systems, semantic search pipelines, and event-driven architectures for scalable automation.
+* 💬 **Languages** — Python, Java, SQL, JavaScript, Dart
+* ⚡ **Fun Fact** — I fuel my LeetCode grinds with One Piece and Attack on Titan
 
 ## 🏆 Competitive Programming
 - Peak Rating: *1876*
