@@ -63,8 +63,8 @@
 
 ## 📊 GitHub Statistics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TathagataSen06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=1" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TathagataSen06&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api?username=TathagataSen06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=2" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=TathagataSen06&layout=compact&theme=tokyonight&hide_border=true&v=2" alt="Top Languages" />
 </div>
 
 ---
