@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 👋, this is Tathagata Sen
 
 ## 🚀 About Me
 - 🎓 Pre-final Year B.Tech CSE Student at BIT Mesra
