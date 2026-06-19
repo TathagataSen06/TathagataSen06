@@ -19,7 +19,7 @@
 
 * 🎓 **B.Tech CSE @ BIT Mesra** — Expected 2027
 * 🔭 **Currently** — Working on agentic AI systems, semantic search pipelines, and event-driven architectures for scalable automation.
-* 💬 **Languages** — Python, Java, SQL, JavaScript, Dart
+* 💬 **Languages** — Python, Java, SQL, JavaScript, C
 * ⚡ **Fun Fact** — I fuel my LeetCode grinds with One Piece and Attack on Titan
 
 ## 🏆 Competitive Programming
