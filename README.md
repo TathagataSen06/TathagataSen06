@@ -1,82 +1,141 @@
-<h1 align="center">Hey 👋, I'm Tathagata Sen</h1>
+# Hey 👋, I'm Tathagata Sen
 
 <p align="center">
-  Competitive programmer • Full-stack developer • AI & ML builder
+  <strong>Competitive Programmer • Full-Stack Developer • AI/ML Engineer</strong>
 </p>
 
 <p align="center">
-  <a href="https://tathagatasen.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/tathagatasen05/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://leetcode.com/u/dedsora/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+  Building intelligent systems at the intersection of algorithms, backend architecture, and machine learning.
+</p>
+
+<p align="center">
+  <a href="https://tathagatasen.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://www.linkedin.com/in/tathagatasen05/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://leetcode.com/u/dedsora/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode">
+  </a>
+  <a href="https://github.com/TathagataSen06">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  </a>
   <img src="https://komarev.com/ghpvc/?username=TathagataSen06&label=Profile%20Views&color=00e5ff&style=flat-square" alt="Profile Views">
 </p>
 
 ---
 
-## About Me
+## 🎯 About Me
 
-> Competitive Programmer turned Full Stack & ML Engineer — I love solving hard algorithmic problems as much as I love building intelligent, real-world systems.
+I'm a **full-stack engineer with a competitive programming foundation**, specializing in building scalable, intelligent systems. My experience spans from algorithmic problem-solving to production-grade AI applications. I'm particularly passionate about **agentic AI systems**, **semantic search pipelines**, and **event-driven architectures** that solve real-world problems at scale.
 
-* 🎓 **B.Tech CSE @ BIT Mesra** — Expected 2027
-* 🔭 **Currently** — Working on agentic AI systems, semantic search pipelines, and event-driven architectures for scalable automation.
-* 💬 **Languages** — Python, Java, SQL, JavaScript, C
-* ⚡ **Fun Fact** — I fuel my LeetCode grinds with One Piece and Attack on Titan
-
-## 🏆 Competitive Programming
-- Peak Rating: *1876*
-- LeetCode Knight
-- Solved *500+ Problems*
-- Strong focus on DSA, Graphs, Dynamic Programming, Greedy Algorithms, and Problem Solving
-
-## 💻 Tech Stack & Skills
-
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Frameworks & Libraries
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![TensorFlow.js](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-FF9900?style=for-the-badge&logo=huggingface&logoColor=white)
-
-### Databases & Storage
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Android SDK](https://img.shields.io/badge/Android_SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Debezium](https://img.shields.io/badge/Debezium-000000?style=for-the-badge)
-
-### Core CS & AI/ML
-* **Core CS:** Data Structures & Algorithms, OOP, DBMS, Operating Systems, Computer Networks
-* **AI/ML:** Machine Learning, NLP, RAG Systems, Vector Search, K-Means Clustering, Neural Networks
-
-## 📊 GitHub Statistics
-<div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=TathagataSen06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=2" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=TathagataSen06&layout=compact&theme=tokyonight&hide_border=true&v=3" alt="Top Languages" />
-</div>
+**Currently:** B.Tech Computer Science @ BIT Mesra (Expected 2027)  
+**Focus:** Production-grade AI systems • System architecture • Full-stack development
 
 ---
 
-## 🔥 Contribution Graph
+## 🏆 Competitive Programming
+
+| Metric | Achievement |
+|--------|-------------|
+| **Peak Rating** | 1876 (LeetCode) |
+| **Problems Solved** | 500+ |
+| **Expertise** | Data Structures, Graphs, Dynamic Programming, Greedy Algorithms |
+| **Badge** | LeetCode Knight |
+
+Competitive programming shaped my problem-solving mindset and deep understanding of algorithmic efficiency—core skills I apply to real-world systems.
+
+---
+
+## 💼 Key Competencies
+
+### Programming Languages
+- **Python** — Primary language for ML/AI and backend services
+- **Java** — OOP design, enterprise patterns
+- **JavaScript** — Modern frontend development with React
+- **SQL** — Complex queries, optimization, database design
+- **C** — Systems-level programming, competitive programming
+
+### Backend & AI/ML
+- **Frameworks:** FastAPI, Flask, Node.js
+- **AI/ML:** Machine Learning pipelines, NLP, RAG systems, vector search, semantic embeddings
+- **Specialized Libraries:** TensorFlow.js, Sentence Transformers, Hugging Face
+- **Architecture:** Microservices, event-driven systems, asynchronous processing
+
+### Frontend & Mobile
+- **Frontend:** React.js, modern JavaScript, responsive design
+- **Mobile:** Flutter (cross-platform), Android SDK
+
+### Data & Infrastructure
+- **Databases:** PostgreSQL (primary), MySQL, Firebase
+- **Search & Vectors:** pgvector, Elasticsearch
+- **Caching:** Redis
+- **Message Queues:** Apache Kafka
+- **Change Capture:** Debezium (CDC pipelines)
+- **Cloud:** Google Cloud Platform (GCP)
+- **Version Control:** Git, GitHub
+
+### Core Computer Science
+- **Data Structures & Algorithms** — Mastery in design and analysis
+- **Database Management Systems** — Schema design, optimization, indexing
+- **Operating Systems** — Process management, memory, concurrency
+- **Computer Networks** — Protocol design, distributed communication
+- **Object-Oriented Programming** — Design patterns, SOLID principles
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=TathagataSen06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=2" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=TathagataSen06&layout=compact&theme=tokyonight&hide_border=true&v=3" alt="Top Languages" />
+</div>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TathagataSen06&theme=tokyonight&hide_border=true&v=3" alt="GitHub Streak" />
 </div>
 
 ---
 
-## 🌟 Areas of Interest
-Artificial Intelligence • Agentic AI • Distributed Systems • Software Engineering • Full-Stack Development • Cloud Computing • Cybersecurity • System Design • Open Source
+## 🚀 Areas of Expertise
+
+**AI & ML Systems** • **Agentic Frameworks** • **Semantic Search & RAG** • **Full-Stack Development** • **System Design & Architecture** • **Distributed Systems** • **Event-Driven Architecture** • **Cloud Computing** • **Open Source** • **Software Engineering Best Practices**
+
+---
+
+## 💡 What I'm Working On
+
+- Building **production-grade agentic AI systems** with multi-step reasoning
+- Developing **semantic search pipelines** using modern embedding models
+- Designing **event-driven architectures** for scalable automation
+- Contributing to **open-source AI/ML projects**
+- Exploring **distributed systems** and **system design** patterns
+
+---
+
+## 🎓 Philosophy
+
+I believe in writing **clean, maintainable code** that scales. Whether it's optimizing an algorithm for competitive programming or architecting microservices for millions of users, I apply the same principles: clarity, efficiency, and pragmatism.
+
+**Tech stack matters less than understanding core principles.** I'm a fast learner who's equally comfortable debugging production systems or learning a new framework.
+
+---
+
+## 📬 Get In Touch
+
+I'm always interested in discussing **system design**, **AI/ML architecture**, **competitive programming**, or **open-source contributions**. Feel free to reach out!
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/tathagatasen05/)
+- 💻 [Portfolio](https://tathagatasen.vercel.app/)
+- 🏆 [LeetCode](https://leetcode.com/u/dedsora/)
+- 📧 [GitHub](https://github.com/TathagataSen06)
+
+---
+
+<p align="center">
+  <i>Always learning, always building.</i>
+</p>
