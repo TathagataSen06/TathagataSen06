@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3200&pause=1000&center=true&vCenter=true&width=900&color=00E5FF&lines=Building+Production+Grade+Software;Distributed+Systems+Enthusiast;Backend+Engineer;AI+%26+Machine+Learning;LeetCode+Knight;Always+Learning+Always+Building"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3200&pause=1000&center=true&vCenter=true&width=900&color=00E5FF&lines=Building+Production+Grade+Software;Distributed+Systems+Engineer;Backend+Engineer;LeetCode+Knight;Always+Learning+Always+Building"/>
 
 </div>
 
