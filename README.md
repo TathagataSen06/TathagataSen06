@@ -1,16 +1,16 @@
-<!-- ====================================================== -->
-<!--                    HERO SECTION                         -->
-<!-- ====================================================== -->
+<!-- ===================================================== -->
+<!--                    HERO SECTION                        -->
+<!-- ===================================================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F2027,50:203A43,100:2C5364&text=Tathagata%20Sen&fontSize=55&fontColor=00E5FF&fontAlignY=38&animation=fade&desc=Competitive%20Programmer%20•%20Full-Stack%20Developer%20•%20AI/ML%20Engineer&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,11,20&text=Tathagata%20Sen&fontSize=58&fontColor=ffffff&animation=fade&fontAlignY=38&desc=Competitive%20Programmer%20•%20Backend%20Developer%20•%20AI/ML%20Engineer&descAlignY=60"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&random=false&width=900&lines=Building+Production+Grade+Software;Distributed+Systems+Engineer;Backend+Developer;AI+%2F+Machine+Learning;LeetCode+Knight;Always+Learning+Always+Building"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3200&pause=1000&center=true&vCenter=true&width=900&color=00E5FF&lines=Building+Production+Grade+Software;Distributed+Systems+Enthusiast;Backend+Engineer;AI+%26+Machine+Learning;LeetCode+Knight;Always+Learning+Always+Building"/>
 
 </div>
 
@@ -19,24 +19,24 @@
 <div align="center">
 
 <a href="https://tathagatasen.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/tathagatasen05">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://leetcode.com/u/dedsora/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <a href="https://github.com/TathagataSen06">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=TathagataSen06&label=Profile%20Views&color=00E5FF&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=TathagataSen06&style=for-the-badge&color=00e5ff"/>
 
 </div>
 
@@ -48,57 +48,49 @@
 
 <tr>
 
-<td width="62%">
+<td width="65%">
 
-### Hi there 👋
+### Hi 👋
 
-I'm **Tathagata Sen**, a Computer Science undergraduate at **BIT Mesra** passionate about building scalable backend systems and production-grade AI applications.
+I'm **Tathagata Sen**, a Computer Science undergraduate at **BIT Mesra** with a strong interest in backend engineering, distributed systems, and AI-driven software.
 
-I enjoy solving challenging algorithmic problems and applying those fundamentals to real-world distributed systems.
+I enjoy building systems that combine **scalable architectures**, **machine learning**, and **clean software engineering principles**.
 
-My current interests include:
+Currently exploring:
 
 - Distributed Systems
-- Backend Engineering
-- AI Infrastructure
+- Event-Driven Architectures
 - Semantic Search
 - Agentic AI
-- Retrieval-Augmented Generation
-- System Design
 - Machine Learning
-
-I enjoy taking projects from **idea → architecture → deployment** while focusing on scalability, maintainability, and performance.
+- High Performance Backend Systems
 
 </td>
 
-<td width="38%">
+<td width="35%">
 
 ```cpp
 class Tathagata {
 
 public:
 
- string role =
- "Software Engineer";
+    string university =
+    "BIT Mesra";
 
- string education =
- "BIT Mesra";
+    string role =
+    "Software Engineer";
 
- string interests[] = {
+    vector<string> interests = {
 
-   "Backend",
+        "Backend",
 
-   "Distributed Systems",
+        "Distributed Systems",
 
-   "Machine Learning",
+        "Machine Learning",
 
-   "Competitive Programming",
+        "Competitive Programming"
 
-   "AI Infrastructure"
-
- };
-
- bool learning = true;
+    };
 
 };
 ```
@@ -115,41 +107,41 @@ public:
 
 <div align="center">
 
-## Languages
+### Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,c,javascript"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,js"/>
 
 <br><br>
 
-## Frontend
+### Backend
+
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,mysql,redis,docker"/>
+
+<br><br>
+
+### Frontend
 
 <img src="https://skillicons.dev/icons?i=react,flutter,dart,tailwind"/>
 
 <br><br>
 
-## Backend
+### Cloud & DevOps
 
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,mysql,redis,firebase,docker"/>
-
-<br><br>
-
-## Cloud
-
-<img src="https://skillicons.dev/icons?i=gcp,aws,git,github"/>
+<img src="https://skillicons.dev/icons?i=gcp,aws,firebase,git,github"/>
 
 <br><br>
 
-## AI / ML
+### AI / ML
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow,pytorch"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow"/>
 
 <br>
 
 <img src="https://img.shields.io/badge/Sentence%20Transformers-orange?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-purple?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Vector%20Search-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vector%20Search-teal?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/NLP-blueviolet?style=for-the-badge"/>
 
@@ -159,401 +151,78 @@ public:
 
 ---
 
-# 🚀 Core Competencies
+# ⭐ Featured Repositories
 
-<div align="center">
-
-| Backend | AI | Systems | Programming |
-|---------|----|----------|-------------|
-| FastAPI | Machine Learning | Distributed Systems | Competitive Programming |
-| REST APIs | NLP | System Design | Algorithms |
-| Kafka | Semantic Search | Microservices | Data Structures |
-| PostgreSQL | RAG | Event-Driven Systems | Problem Solving |
-| Redis | Vector Databases | Scalability | Optimization |
-
-</div>
-
----
-
-# 💡 Philosophy
-
-> *"Write software that scales not only in users, but also in maintainability."*
-
-I believe strong engineering comes from mastering computer science fundamentals first, then applying them to build practical, reliable systems.
-
----
-<!-- ====================================================== -->
-<!--                 EXPERIENCE SECTION                      -->
-<!-- ====================================================== -->
-
-# 💼 Professional Experience
+> Every project below links directly to its GitHub repository.
 
 <table>
 
 <tr>
 
-<td width="20%" align="center">
+<td width="50%">
 
-<img src="https://img.icons8.com/fluency/96/physics.png" width="70"/>
+## 🛰️ SanchaarSetu
 
-</td>
+Real-time semantic middleware enabling secure data synchronization across government departments.
 
-<td>
+**Highlights**
 
-## Software Development Engineer Intern
-### Bhabha Atomic Research Centre (BARC)
-
-**May 2026 – July 2026**
-
-Built scientific software and high-performance data processing pipelines for radiation detector analysis.
-
-### Highlights
-
-- Processed **40M+ detector measurements** using optimized Python scientific computing pipelines.
-- Developed statistical validation pipelines using **NumPy, SciPy, Pandas and OpenCV**.
-- Automated detector spectrum calibration reducing manual effort by **70%**.
-- Designed GUI software using **CustomTkinter + Matplotlib** for calibration diagnostics.
-- Improved analyst productivity across **4000+ channel detector datasets**.
-
-**Tech Stack**
-
-Python • NumPy • SciPy • Pandas • OpenCV • Matplotlib • CustomTkinter
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 🚀 Featured Projects
-
-<table>
-
-<tr>
-
-<td width="45%">
-
-## 🌐 SanchaarSetu
-
-### Semantic Government Data Exchange Platform
-
-A distributed middleware enabling real-time data synchronization across **40+ government departments**.
-
-### Highlights
-
-- REST APIs using FastAPI
-- Semantic Schema Mapping
+- FastAPI
+- Kafka
+- Redis
+- Debezium
+- pgvector
 - Sentence Transformers
-- pgvector Similarity Search
-- Redis Idempotency
-- Kafka Event Streaming
-- Debezium CDC
-- Dead Letter Queue
-- Audit Logging
+- Semantic Schema Mapping
 
-### Outcome
-
-Reduced inter-department data propagation from
-
-**Days → Under 5 Seconds**
+➡️ **Repository**
 
 </td>
 
-<td width="55%">
-
-```text
-Citizen Portal
-       │
-       ▼
- REST API Gateway
-       │
- ┌───────────────┐
- │Schema Mapping │
- └───────────────┘
-       │
-Sentence Transformers
-       │
-   pgvector Search
-       │
- Redis Validation
-       │
- Kafka Queue
-       │
-Department Services
-
-```
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<table>
-
-<tr>
-
-<td width="45%">
-
-## 🧠 Digital Twin Market Engine
-
-AI-powered FMCG market simulator capable of testing products before launch.
-
-### Built Using
-
-- TensorFlow.js
-- Llama 3
-- Groq API
-- React
-- Chart.js
-
-### Features
-
-- 25,000 Synthetic Consumers
-- Demand Prediction
-- Customer Segmentation
-- Churn Prediction
-- Customer Lifetime Value
-- Interactive Analytics
-
-</td>
-
-<td width="55%">
-
-```text
-
- Product
-    │
-    ▼
-
- Digital Twin
-
-    │
-
- ML Prediction
-
-    │
-
- Market Simulation
-
-    │
-
-Business Analytics
-
-```
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<table>
-
-<tr>
-
-<td width="45%">
+<td width="50%">
 
 ## 🤖 Agentic RFP Automation
 
-Production-ready multi-agent platform for industrial RFP automation.
+Production-ready multi-agent AI platform that automates industrial RFP response generation.
 
-### AI Agents
+**Highlights**
 
-• Sales Agent
-
-• Technical Agent
-
-• Pricing Agent
-
-• Orchestrator
-
-### Features
-
-- RAG Pipeline
-- Semantic Search
+- RAG
+- NLP
+- Multi-Agent System
 - PDF Intelligence
-- Parallel Execution
 - Analytics Dashboard
 
-Reduced
-
-**3 Hours → 7 Seconds**
-
-</td>
-
-<td width="55%">
-
-```text
-
-            User
-             │
-
-      Orchestrator
-
-   ┌────┬────┬────┐
-
-Sales Tech Price
-
-   └────┴────┴────┘
-
-        │
-
-Merged Response
-
-        │
-
- Export PDF
-
-```
+➡️ **Repository**
 
 </td>
 
 </tr>
 
-</table>
-
----
-
-<table>
-
 <tr>
 
-<td width="45%">
+<td width="50%">
+
+## 📊 Digital Twin Market Engine
+
+AI-powered FMCG simulation platform using synthetic populations and predictive ML.
+
+➡️ **Repository**
+
+</td>
+
+<td width="50%">
 
 ## 🛡️ SaviHer
 
-Women's Safety Platform
+Flutter-based women's safety platform with geofencing and emergency response automation.
 
-### Features
-
-- Smart SOS
-- Geofencing
-- Emergency Contacts
-- Community Volunteers
-- Safe Zone Detection
-- Firebase Backend
-- Flutter App
-
-### Achievement
-
-Incubated at
-
-**Bhamashah Techno Hub**
-
-</td>
-
-<td width="55%">
-
-```text
-
- Shake Phone
-
-      │
-
-   SOS Trigger
-
-      │
-
- Capture Image
-
-      │
-
- Upload
-
-      │
-
- Emergency Contacts
-
-      │
-
- Nearby Volunteers
-
-```
+➡️ **Repository**
 
 </td>
 
 </tr>
 
 </table>
-
----
-
-# 📄 Research
-
-<table>
-
-<tr>
-
-<td width="18%" align="center">
-
-📖
-
-</td>
-
-<td>
-
-## Springer Research Publication
-
-**A Knowledge Graph–Driven Machine Learning Framework for Predictive Market Intelligence and Economic Decision Analytics**
-
-Accepted at
-
-**IDBA 2026**
-
-To appear in
-
-**Springer — Learning and Analytics in Intelligent Systems**
-
-Research Areas
-
-- Knowledge Graphs
-- Machine Learning
-- Economic Analytics
-- Predictive Intelligence
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 🏆 Major Achievements
-
-🥇 Winner — **AI FOR BHARAT Hackathon**
-
-> ₹1,00,000 Prize
-
----
-
-📖 Springer Research Publication
-
----
-
-💼 Software Development Engineer Intern
-
-**BARC**
-
----
-
-🛡️ Founder
-
-**SaviHer**
-
----
-
-🏆 LeetCode Knight
-
-Peak Rating **1876**
-
-500+ Problems Solved
 
 ---
