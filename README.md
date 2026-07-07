@@ -182,3 +182,378 @@ public:
 I believe strong engineering comes from mastering computer science fundamentals first, then applying them to build practical, reliable systems.
 
 ---
+<!-- ====================================================== -->
+<!--                 EXPERIENCE SECTION                      -->
+<!-- ====================================================== -->
+
+# 💼 Professional Experience
+
+<table>
+
+<tr>
+
+<td width="20%" align="center">
+
+<img src="https://img.icons8.com/fluency/96/physics.png" width="70"/>
+
+</td>
+
+<td>
+
+## Software Development Engineer Intern
+### Bhabha Atomic Research Centre (BARC)
+
+**May 2026 – July 2026**
+
+Built scientific software and high-performance data processing pipelines for radiation detector analysis.
+
+### Highlights
+
+- Processed **40M+ detector measurements** using optimized Python scientific computing pipelines.
+- Developed statistical validation pipelines using **NumPy, SciPy, Pandas and OpenCV**.
+- Automated detector spectrum calibration reducing manual effort by **70%**.
+- Designed GUI software using **CustomTkinter + Matplotlib** for calibration diagnostics.
+- Improved analyst productivity across **4000+ channel detector datasets**.
+
+**Tech Stack**
+
+Python • NumPy • SciPy • Pandas • OpenCV • Matplotlib • CustomTkinter
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+
+<tr>
+
+<td width="45%">
+
+## 🌐 SanchaarSetu
+
+### Semantic Government Data Exchange Platform
+
+A distributed middleware enabling real-time data synchronization across **40+ government departments**.
+
+### Highlights
+
+- REST APIs using FastAPI
+- Semantic Schema Mapping
+- Sentence Transformers
+- pgvector Similarity Search
+- Redis Idempotency
+- Kafka Event Streaming
+- Debezium CDC
+- Dead Letter Queue
+- Audit Logging
+
+### Outcome
+
+Reduced inter-department data propagation from
+
+**Days → Under 5 Seconds**
+
+</td>
+
+<td width="55%">
+
+```text
+Citizen Portal
+       │
+       ▼
+ REST API Gateway
+       │
+ ┌───────────────┐
+ │Schema Mapping │
+ └───────────────┘
+       │
+Sentence Transformers
+       │
+   pgvector Search
+       │
+ Redis Validation
+       │
+ Kafka Queue
+       │
+Department Services
+
+```
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<table>
+
+<tr>
+
+<td width="45%">
+
+## 🧠 Digital Twin Market Engine
+
+AI-powered FMCG market simulator capable of testing products before launch.
+
+### Built Using
+
+- TensorFlow.js
+- Llama 3
+- Groq API
+- React
+- Chart.js
+
+### Features
+
+- 25,000 Synthetic Consumers
+- Demand Prediction
+- Customer Segmentation
+- Churn Prediction
+- Customer Lifetime Value
+- Interactive Analytics
+
+</td>
+
+<td width="55%">
+
+```text
+
+ Product
+    │
+    ▼
+
+ Digital Twin
+
+    │
+
+ ML Prediction
+
+    │
+
+ Market Simulation
+
+    │
+
+Business Analytics
+
+```
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<table>
+
+<tr>
+
+<td width="45%">
+
+## 🤖 Agentic RFP Automation
+
+Production-ready multi-agent platform for industrial RFP automation.
+
+### AI Agents
+
+• Sales Agent
+
+• Technical Agent
+
+• Pricing Agent
+
+• Orchestrator
+
+### Features
+
+- RAG Pipeline
+- Semantic Search
+- PDF Intelligence
+- Parallel Execution
+- Analytics Dashboard
+
+Reduced
+
+**3 Hours → 7 Seconds**
+
+</td>
+
+<td width="55%">
+
+```text
+
+            User
+             │
+
+      Orchestrator
+
+   ┌────┬────┬────┐
+
+Sales Tech Price
+
+   └────┴────┴────┘
+
+        │
+
+Merged Response
+
+        │
+
+ Export PDF
+
+```
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<table>
+
+<tr>
+
+<td width="45%">
+
+## 🛡️ SaviHer
+
+Women's Safety Platform
+
+### Features
+
+- Smart SOS
+- Geofencing
+- Emergency Contacts
+- Community Volunteers
+- Safe Zone Detection
+- Firebase Backend
+- Flutter App
+
+### Achievement
+
+Incubated at
+
+**Bhamashah Techno Hub**
+
+</td>
+
+<td width="55%">
+
+```text
+
+ Shake Phone
+
+      │
+
+   SOS Trigger
+
+      │
+
+ Capture Image
+
+      │
+
+ Upload
+
+      │
+
+ Emergency Contacts
+
+      │
+
+ Nearby Volunteers
+
+```
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📄 Research
+
+<table>
+
+<tr>
+
+<td width="18%" align="center">
+
+📖
+
+</td>
+
+<td>
+
+## Springer Research Publication
+
+**A Knowledge Graph–Driven Machine Learning Framework for Predictive Market Intelligence and Economic Decision Analytics**
+
+Accepted at
+
+**IDBA 2026**
+
+To appear in
+
+**Springer — Learning and Analytics in Intelligent Systems**
+
+Research Areas
+
+- Knowledge Graphs
+- Machine Learning
+- Economic Analytics
+- Predictive Intelligence
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🏆 Major Achievements
+
+🥇 Winner — **AI FOR BHARAT Hackathon**
+
+> ₹1,00,000 Prize
+
+---
+
+📖 Springer Research Publication
+
+---
+
+💼 Software Development Engineer Intern
+
+**BARC**
+
+---
+
+🛡️ Founder
+
+**SaviHer**
+
+---
+
+🏆 LeetCode Knight
+
+Peak Rating **1876**
+
+500+ Problems Solved
+
+---
