@@ -84,9 +84,7 @@
 ---
 
 ## 🔥 Contribution Graph
-<div align="center">
-  <img src="https://vercel.com/nozelle116-1294s-projects/stats/458Rh2otkNJZTawbgPhBrc5zkTvC" alt="GitHub Streak" />
-</div>
+<a href="https://git.io/streak-stats"><img src="https://stats-one-tan.vercel.app?user=TathagataSen06" alt="GitHub Streak" /></a>
 
 ---
 
