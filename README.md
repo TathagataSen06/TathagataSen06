@@ -85,7 +85,7 @@
 
 ## 🔥 Contribution Graph
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TathagataSen06&theme=tokyonight&hide_border=true&v=4" alt="GitHub Streak" />
+  <img src="https://vercel.com/nozelle116-1294s-projects/stats/458Rh2otkNJZTawbgPhBrc5zkTvC" alt="GitHub Streak" />
 </div>
 
 ---
