@@ -19,7 +19,7 @@
 <p align="center">
   <a href="https://tathagatasen.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/tathagatasen05/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://leetcode.com/u/dedsora/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+  <a href="https://leetcode.com/u/tathagatasen/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"></a>
   <img src="https://komarev.com/ghpvc/?username=TathagataSen06&label=Profile%20Views&color=00e5ff&style=flat-square" alt="Profile Views">
 </p>
 
