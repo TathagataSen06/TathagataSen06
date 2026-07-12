@@ -77,7 +77,7 @@
 
 ## 📊 GitHub Statistics
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=TathagataSen06&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=tokyonight" />
+  <img src="https://github-stats-extended.vercel.app/api?username=TathagataSen06&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=tokyonight&v=1" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=TathagataSen06&layout=compact&theme=tokyonight&hide_border=true&v=4" alt="Top Languages" />
 </div>
 
